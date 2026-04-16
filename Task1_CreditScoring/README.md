@@ -118,7 +118,7 @@ Calculated:
 
 **👩‍💻 Khansa Urooj**  
 
-🔗 [GitHub Repository]
+🔗 [[GitHub Repository](https://github.com/khansaurooj/ML_Projects)]
 
 ---
 
