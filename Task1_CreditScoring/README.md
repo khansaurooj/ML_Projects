@@ -1,6 +1,5 @@
-# 💳 Credit Score Classification — CodeAlpha Machine Learning Internship (Task 1)
-
-This project is part of the **CodeAlpha Machine Learning Internship**.  
+# 💳 Credit Score Classification — 
+  
 The goal is to build and compare machine learning models for **Credit Score Classification** using a real-world financial dataset.  
 
 ---
@@ -118,8 +117,8 @@ Calculated:
 ## 📜 Author
 
 **👩‍💻 Khansa Urooj**  
-CodeAlpha — Machine Learning Internship (Task 1: Credit Score Classification)  
-🔗 [GitHub Repository](https://github.com/khansaurooj/CodeAlpha_ML_Internship)
+
+🔗 [GitHub Repository]
 
 ---
 
