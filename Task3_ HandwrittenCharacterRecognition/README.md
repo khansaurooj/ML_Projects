@@ -88,7 +88,7 @@ In this project, we tackle the challenge of **classifying handwritten characters
 
 **Khansa Urooj**  
   
-🔗 [GitHub Repository]https://github.com/khansaurooj/ML_Projects
+🔗 [GitHub Repository](https://github.com/khansaurooj/ML_Projects)
 
 ---
 
