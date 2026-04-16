@@ -1,6 +1,6 @@
-# 🎙️ Speech Emotion Recognition (SER) — CodeAlpha Machine Learning Internship (Task 2)
+# 🎙️ Speech Emotion Recognition (SER) — 
 
-This repository contains the implementation for **Task 2** of the [CodeAlpha Machine Learning Internship](https://github.com/khansaurooj/CodeAlpha_ML_Internship).  
+This repository contains the implementation for **Task 2** of the [Machine Learning projects](https://github.com/khansaurooj/ML_Projects) 
 The objective is to build a robust **Speech Emotion Recognition (SER)** system capable of classifying human emotions from voice recordings using state-of-the-art deep learning architectures.
 
 ---
@@ -97,8 +97,8 @@ Each subdirectory contains `.wav` files labeled by emotion.
 ## 👩‍💻 Author
 
 **Khansa Urooj**  
-CodeAlpha — Machine Learning Internship (Task 2: Speech Emotion Recognition)  
-🔗 [GitHub Repository](https://github.com/khansaurooj/CodeAlpha_ML_Internship)
+
+🔗 [GitHub Repository](https://github.com/khansaurooj/ML_Projects)
 
 ---
 
