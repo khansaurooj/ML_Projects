@@ -1,6 +1,6 @@
-# ✍️ Handwritten Character Recognition — CodeAlpha Machine Learning Internship (Task 3)
+# ✍️ Handwritten Character Recognition — 
 
-This repository contains the solution for **Task 3** of the CodeAlpha Machine Learning Internship: **Handwritten Character Recognition**.  
+This repository contains the solution for **Task 3** of the  Machine Learning Internship: **Handwritten Character Recognition**.  
 The goal is to develop a deep learning model capable of recognizing handwritten alphabets from images using advanced neural network techniques.
 
 ---
@@ -87,8 +87,8 @@ In this project, we tackle the challenge of **classifying handwritten characters
 ## 👩‍💻 Author
 
 **Khansa Urooj**  
-CodeAlpha — Machine Learning Internship (Task 3: Handwritten Character Recognition)  
-🔗 [GitHub Repository](https://github.com/khansaurooj/CodeAlpha_ML_Internship)
+  
+🔗 [GitHub Repository]https://github.com/khansaurooj/ML_Projects
 
 ---
 
