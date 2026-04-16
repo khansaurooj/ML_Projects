@@ -1,6 +1,6 @@
-# 🩺 Disease Prediction from Medical Data — CodeAlpha Machine Learning Internship (Task 4)
+# 🩺 Disease Prediction from Medical Data —
 
-This repository contains the solution for **Task 4** of the CodeAlpha Machine Learning Internship: **Disease Prediction from Medical Data (Heart Disease)**.  
+This repository contains the solution for **Task 4** of the  Machine Learning : **Disease Prediction from Medical Data (Heart Disease)**.  
 The objective is to build a machine learning model that predicts the presence of heart disease using clinical data.
 
 ---
@@ -105,8 +105,8 @@ This project focuses on **predicting heart disease** from medical datasets using
 ## 👩‍💻 Author
 
 **Khansa Urooj**  
-CodeAlpha — Machine Learning Internship (Task 4: Disease Prediction from Medical Data)  
-🔗 [GitHub Repository](https://github.com/khansaurooj/CodeAlpha_ML_Internship)
+
+🔗 [GitHub Repository](https://github.com/khansaurooj/ML_Projects)
 
 ---
 
